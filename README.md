@@ -1,4 +1,4 @@
-# 🛒 QuickBuy API
+# 🛒 QuickBuy APP
 
 **QuickBuy** is a robust, scalable **RESTful API** built with **Laravel 11** for powering a multi-store e-commerce platform. It provides full backend functionality for user management, store/product control, shopping cart operations, order processing, and user favorites — all secured with token-based authentication using Laravel Sanctum.
 
